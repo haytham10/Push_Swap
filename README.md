@@ -14,7 +14,7 @@ to compile the checker:
 
 # Usage:
 
-#### To run the program using the following commands, with the needed numbers to sort in the second argument:
+#### To run the program use the following commands, with the needed numbers to sort in the second argument:
 
 <img src="https://raw.githubusercontent.com/haytham10/Push_Swap/main/imgs/%231.png" width=60% height=50%>
 
